@@ -7,3 +7,4 @@ A simple IRC Bot written in python that scrapes from Wikipedia
 
 # Contributors
 teh penguin of doom!!!
+http://www.theguardian.com/technology/pirate-bay
